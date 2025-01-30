@@ -3,10 +3,15 @@ import time
 import cv2
 import pytesseract
 import numpy as np
-import decky_plugin
 from threading import Thread
 import asyncio
 import json
+
+try:
+    import decky_plugin
+except ImportError:
+    print("Warning: 'decky_plugin' not available. Running in standalone mode.")
+    decky_plugin = None
 
 pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
