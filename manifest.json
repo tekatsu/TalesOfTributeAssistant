@@ -1,0 +1,9 @@
+{
+  "name": "Tales of Tribute Assistant",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "An AI-powered assistant for Tales of Tribute.",
+  "main": "plugin.py",
+  "entrypoint": "plugin",
+  "dependencies": []
+}
