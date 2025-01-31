@@ -1,9 +1,0 @@
-{
-  "name": "Tales of Tribute Assistant",
-  "author": "Your Name",
-  "version": "1.0.0",
-  "description": "Minimal Plugin to Test Decky Loader Installation",
-  "main": "plugin.py",
-  "entrypoint": "Plugin",
-  "dependencies": []
-}

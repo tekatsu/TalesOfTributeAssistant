@@ -1,0 +1,11 @@
+{
+  "name": "Tales of Tribute Assistant",
+  "author": "Your Name",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["ESO", "Tales of Tribute", "Card Game", "Strategy"],
+    "description": "An AI-powered assistant for Tales of Tribute in ESO.",
+    "image": "https://example.com/plugin-image.png"
+  }
+}
